@@ -218,25 +218,6 @@ header ul li a.main {
     display: none;
   }
 }
-/* .container .container .cont::before {
-  content: "";
-  position: absolute;
-  width: 12px;
-  height: 80px;
-  background-color: var(--greyColor);
-  top: -5px;
-  left: -80px;
-}
-.container .container .cont::after {
-  content: "";
-  position: absolute;
-  width: 12px;
-  height: 80px;
-  background-color: var(--greyColor);
-  top: -5px;
-  left: -80px;
-  transform: rotate(90deg); 
-}*/
 /* Start Animation  */
 @keyframes circule {
   from {
@@ -248,13 +229,13 @@ header ul li a.main {
 }
 /* End Animation  */
 .container .container img {
-  width: 450px;
-  height: 532px;
-  position: absolute;
-  z-index: 500;
-  top: 18px;
-  left: -39px;
-  filter: grayscale(100%);
+    width: 450px;
+    height: 532px;
+    position: absolute;
+    z-index: 500;
+    top: 18px;
+    left: -39px;
+    filter: grayscale(100%);
 }
 .container .circule {
   display: flex;
