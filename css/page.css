@@ -229,12 +229,12 @@ header ul li a.main {
 }
 /* End Animation  */
 .container .container img {
-    width: 450px;
-    height: 532px;
+    width: 583px;
+    height: 655px;
     position: absolute;
     z-index: 500;
-    top: 18px;
-    left: -39px;
+    top: -55px;
+    left: -86px;
     filter: grayscale(100%);
 }
 .container .circule {
